@@ -1,8 +1,6 @@
-# sales-data-analysis-python
-Sales data analysis using Python and Pandas, including revenue analysis, product performance, and data visualization.
 
-:::writing{variant="document" id="82516"}
 # Sales Data Analysis with Python
+Sales data analysis using Python and Pandas, including revenue analysis, product performance, and data visualization.
 
 ## Project Overview
 This project analyzes sales transaction data using Python to understand product performance, revenue, and sales volume.
